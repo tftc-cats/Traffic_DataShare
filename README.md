@@ -10,6 +10,8 @@ This repository is a collection point for open-source datasets related to traffi
 - **Next Generation Simulation(NGSIM) Dataset**
 - **I24 Motion**
 - **HighD**
+- **inD**
+  - [link](https://levelxdata.com/ind-dataset/)
 - **Safety Pilot Model Deployment (SPMD) Dataset**
 - **OpenACC**
 - **MicroSimACC**
@@ -20,7 +22,12 @@ This repository is a collection point for open-source datasets related to traffi
   -A unified longitudinal trajectory dataset for automated vehicle
 - **CATS-Lab**
   - https://github.com/CATS-Lab-USF
+- **Argoverse Motion dataset**
+  - [link](https://www.argoverse.org/)
+- **INTERACTION Dataset**
+  - [link](https://interaction-dataset.com/)
 
+  
 ---
 
 ## Human Mobility
