@@ -13,6 +13,7 @@ This repository is a collection point for open-source datasets related to traffi
 - **Safety Pilot Model Deployment (SPMD) Dataset**
 - **OpenACC**
 - **MicroSimACC**
+  - [ICE and EV](https://github.com/microSIM-ACC)
 - **Third Generation Simulation Data (TGSIM)**
   - [I-294 L1 Trajectories](https://data.transportation.gov/Automobiles/Third-Generation-Simulation-Data-TGSIM-I-294-L1-Tr/7zjf-a4zf/about_data)
 - **Ultra-AV**
